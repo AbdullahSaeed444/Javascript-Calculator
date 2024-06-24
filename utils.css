@@ -1,0 +1,48 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-color{
+    background-color: green;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.max-w-400{
+    max-width: 360px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+.my-100{
+    margin-top: 100px;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    font-weight: bold;
+}
